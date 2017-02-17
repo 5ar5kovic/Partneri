@@ -15,3 +15,5 @@ magacina, da unose svoja zaduženja/razduženja i prave izveštaje za određeni 
 cilju smanjenja vremena za nalaženje greške koja je nastala.
 Ova baza predstavlja samo osnovni(početni) model za ove svrhe i moguće je proširiti ili
 specifizirati za konkretnije privrednike ili delatnosti.
+
+[url=https://pichoster.net/image/sLzQ][img]https://pichoster.net/images/2017/02/17/88fff9118045184e5879639b55498ff2.png[/img][/url]
