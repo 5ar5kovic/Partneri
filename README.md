@@ -17,4 +17,4 @@ Ova baza predstavlja samo osnovni(početni) model za ove svrhe i moguće je pro�
 specifizirati za konkretnije privrednike ili delatnosti.
 
 
-![alt tag](https://pichoster.net/images/2017/02/17/88fff9118045184e5879639b55498ff2.png)
+![alt tag](http://imgur.com/Sb7RdiO)
