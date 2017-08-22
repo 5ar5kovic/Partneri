@@ -17,4 +17,4 @@ Ova baza predstavlja samo osnovni(početni) model za ove svrhe i moguće je pro�
 specifizirati za konkretnije privrednike ili delatnosti.
 
 
-![alt tag](http://imgur.com/Sb7RdiO)
+![text](../master/slike/slika.png)
